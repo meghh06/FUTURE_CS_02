@@ -42,6 +42,6 @@ python password_analyzer.py
 Pull requests are welcome! Feel free to improve the tool and add more features.
 
 🔗 Happy Coding! 🚀
----
+----
 
 
